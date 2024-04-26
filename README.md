@@ -1,3 +1,6 @@
+IMAGE CLASSIFICATION USING PYTHON
+
+
 This project is done using Google collab code editor.
 In this project the image classification is employed using CNN(Convolutional Neural Network) with Data Augmentation.
 This project is done using Python Programming Language.
